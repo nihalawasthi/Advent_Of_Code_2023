@@ -20,7 +20,7 @@ def cal_value(file_path):
 
     return total_sum
 
-file_path = 'input_1.txt'
+file_path = 'input.txt'
 
 sum = cal_value(file_path)
 print("Sum of calibration values:", sum)
