@@ -1,5 +1,5 @@
-<h4>--- Day 1: Trebuchet?! --- </h4>
-<h6>
+<h3>--- Day 1: Trebuchet?! --- </h3>
+<h5>
 Something is wrong with global snow production, and you've been selected to take a look. The Elves have even given you a map; on it, they've used stars to mark the top fifty locations that are likely to be having problems.
 <br>
 You've been doing this long enough to know that to restore snow operations, you need to check all fifty stars by December 25th.
@@ -21,11 +21,13 @@ treb7uchet<br>
 }<br>
 In this example, the calibration values of these four lines are 12, 38, 15, and 77. Adding these together produces 142.
 <br>
-Consider your entire calibration document. What is the sum of all of the calibration values?
+Consider your entire calibration document. 
 <br>
-</h6>
-<h5>--- Part Two ---</h5>
-<h6>
+What is the sum of all of the calibration values?
+<br>
+</h5>
+<h4>--- Part Two ---</h4>
+<h5>
 Your calculation isn't quite right. It looks like some of the digits are actually spelled out with letters: one, two, three, four, five, six, seven, eight, and nine also count as valid "digits".
 <br>
 Equipped with this new information, you now need to find the real first and last digit on each line. For example:
@@ -40,4 +42,4 @@ zoneight234<br>
 In this example, the calibration values are 29, 83, 13, 24, 42, 14, and 76. Adding these together produces 281.
 <br>
 What is the sum of all of the calibration values?
-</h6>
+</h5>
